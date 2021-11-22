@@ -6,6 +6,9 @@ To Date, the Printer is running Marlin Firmware with Octoprint.
 The HermitCrab CAN makes it necessary to move it from Marlin to Klipper, as support for multiple MCUs is required.
 
 This is a draft configuration for the upcoming Modification of my BiQu B1 to run Klipper
+
+Note that it is as of yet untested due to Hardware still being in the mail
+
 Current Configuration:
 - BiQu B1 w/ SKR 1.4 Turbo (instead of stock SKR 1.4)
 - TMC 2209 Stepper-Drivers
